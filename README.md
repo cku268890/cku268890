@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chia En Kang
 - 👀 I’m interested in machine learning, AI, data sicence,
-- 🌱 Currently, I am working as a software engineer at Concord Securities
+- 🌱 Currently, I am working as a Artificial Intelligence engineer at AUO
 - 💞️  I’m looking for any position in any field of to working on data analysis
 - 📫 How to reach me cku268890@gmail.com
 
